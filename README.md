@@ -4,9 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nusratgulbarga&label=Profile%20views&color=0e75b6&style=flat" alt="nusratgulbarga" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nusratgulbarga" alt="nusratgulbarga" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/gulbarganusrat" target="blank"><img src="https://img.shields.io/twitter/follow/gulbarganusrat?logo=twitter&style=for-the-badge" alt="gulbarganusrat" /></a> </p>
 
 - 🔭 I’m currently working on ["I’m currently working on developing interactive web applications, delivering corporate training sessions on modern tech, and expanding my expertise in cloud computing. Additionally, I'm crafting delightful cakes as a creative hobby!"](https://www.dharwadhubballitutor.com/)
 
