@@ -4,9 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nusratgulbarga&label=Profile%20views&color=0e75b6&style=flat" alt="nusratgulbarga" /> </p>
 
-
-
-- 🔭 I’m currently working on ["I’m currently working on developing interactive web applications, delivering corporate training sessions on modern tech, and expanding my expertise in cloud computing. Additionally, I'm crafting delightful cakes as a creative hobby!"](https://www.dharwadhubballitutor.com/)
+- 🔭 I’m currently working on **"Developing interactive web applications, delivering corporate training sessions on modern tech, and expanding my expertise in cloud computing. Additionally, I'm crafting delightful cakes as a creative hobby!"**
 
 - 🌱 I’m currently learning **"Advanced cloud technologies, enhancing my skills in AI and machine learning, and diving deeper into the latest frontend frameworks like React and Vue.js. I'm also exploring data visualization techniques to make complex data more accessible and interactive."**
 
