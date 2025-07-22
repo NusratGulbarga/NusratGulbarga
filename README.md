@@ -75,6 +75,34 @@ You’ll find:
 
 ---
 
+### 📊 GitHub Stats 
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nusratgulbarga&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true&border_radius=10&rank_icon=github" alt="Nusrat's GitHub Stats" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nusratgulbarga&layout=compact&theme=highcontrast&langs_count=8&hide=jupyter%20notebook&border_radius=10" alt="Top Languages" height="180px"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=nusratgulbarga&theme=highcontrast&border_radius=10&fire=EB5454" alt="GitHub Streak" height="160px"/>
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nusratgulbarga&theme=radical&no-bg=true&margin-w=15&column=7&rank=A,B,C&title=Stars,Followers,Commits,Repositories,PullRequest,Issues" />
+</p>
+
+---
+
+### 👀 Profile Views
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nusratgulbarga&style=flat-square&color=brightgreen" alt="Profile Views"/>
+</p>
+
+
+---
+
 ## 🤝 Let's Connect  
 - 📧 **Email**: mnusratgulbarga.2@gmail.com  
 - 🔗 **LinkedIn**: [linkedin.com/in/mnusratgulbarga](https://www.linkedin.com/in/mnusratgulbarga)  
