@@ -44,18 +44,18 @@ From **scaling ETL pipelines in AWS & Azure**, to **deploying ML models for heal
 
 ## 🔥 Featured Projects
 
-| 🧠 Project                     | 💼 Tools & Impact |
-|------------------------------|------------------|
-| **Rossmann Sales Forecasting** | Time Series + Anomaly Detection in Power BI |
-| **AI Job Market Insights**     | NLP + Power BI + Azure | Real-time workforce planning |
-| **Fake News Detection**        | TF-IDF + Random Forest | 92% F1-score |
-| **IPL 2024 Analytics**         | ML + Power BI | Match outcome prediction |
-| **Crop Recommendation Engine**| Python + OpenGov API | Precision agriculture |
-| **Netflix Content Strategy**   | Python + OpenAI | Global viewer behavior |
-| **Resume Parser & Verifier**   | Flask + NLTK + OpenAI API | Faster JD matching |
-| **Retail Demand Forecasting**  | Time Series + BI | Reduced stock-outs |
-| **Medical Image Classifier**   | TensorFlow + Flask | Clinical-grade X-ray model |
-| **Customer Segmentation**      | K-Means + Power BI | Improved campaign ROI |
+|🔬 Biotech & Bioinformatics Projects Showcase
+
+| 🚀 Project Title | 🧰 Tech Stack | 🧠 Key Skills | 📊 Outcomes / Impact |
+|------------------|--------------|----------------|----------------------|
+| **Cancer Gene Expression Classification** | Python, Scikit-learn, Seaborn, Pandas | Classification, Feature Selection, PCA | Achieved 92% accuracy in predicting cancer type using gene expression profiles; enabled faster diagnostic decision-making. |
+| **Drug Discovery using QSAR Modeling** | Python, RDKit, XGBoost | Molecular Descriptors, Regression, Model Tuning | Built predictive QSAR models with R² > 0.87; accelerated virtual compound screening by reducing wet lab dependency. |
+| **Protein Structure Prediction (Homology Modeling)** | Python, BioPython, SWISS-MODEL API | Structural Biology, Sequence Alignment | Predicted 3D structures for 5+ proteins; validated using Ramachandran plots and RMSD analysis to ensure biological relevance. |
+| **DNA Sequence Classification (Human vs. Non-Human)** | Python, Keras, CNNs | Genomic Signal Processing, Deep Learning | Reached 95%+ accuracy using CNNs on raw FASTA sequences; enables contamination filtering in genomics pipelines. |
+| **Gene-Disease Network Analysis** | Python, Cytoscape, NetworkX | Graph Theory, Biomedical Ontologies | Mapped 150+ gene-disease interactions; uncovered 12 critical genes associated with rare disorders. |
+| **Microarray Data Analysis (Differential Gene Expression)** | R (limma), GEOquery, ggplot2 | EDA, DEG analysis, Volcano plots | Identified 300+ significant DEGs; created heatmaps and volcano plots highlighting top biomarkers. |
+| **Protein-Ligand Docking Simulation** | AutoDock Vina, PyMOL | Molecular Docking, Virtual Screening | Simulated ligand binding with binding affinities < -7 kcal/mol; ranked top 10 drug candidates for further testing. |
+| **CRISPR Guide RNA Efficiency Predictor** | Python, XGBoost, NumPy | Genomic Features, Predictive Modeling | Built a regression model (RMSE < 0.15) to forecast gRNA editing success; valuable for CRISPR lab design workflows. |
 
 ---
 
